@@ -23,6 +23,6 @@ return [
     //==========================================
     'Income'            => 'Income',
     'Income_Today'      => 'Income Today',
-    'Customers_Count'   => 'Customers Count',
+    'Customers_Count'   => 'Akun Customers',
     'Orders_Count'      => 'Orders Count',
 ];

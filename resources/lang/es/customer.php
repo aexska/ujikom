@@ -34,7 +34,7 @@ return [
     'Email'             => 'Correo electrónico',
     'Phone'             => 'Teléfono',
     'Address'           => 'Dirección',
-    'Avatar'            => 'Avatar',
+    'Avatar'            => 'Profil',
     'Choose_file'       => 'Elegir archivo',
     'Update_Customer'   => 'Actualizar Cliente',
     'Customer_List'     => 'Lista de Clientes',

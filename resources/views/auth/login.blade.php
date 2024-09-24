@@ -10,7 +10,7 @@
 @endsection
 
 @section('content')
-<p class="login-box-msg">Sign in to start your session</p>
+<p class="login-box-msg">Selamat Datang</p>
 
 <form action="{{ route('login') }}" method="post">
     @csrf
@@ -53,7 +53,7 @@
             <div class="icheck-primary">
                 <input type="checkbox" name="remember" id="remember" {{ old('remember') ? 'checked' : '' }}>
                 <label for="remember">
-                    Remember Me
+                    Ingatkan Saya
                 </label>
             </div>
         </div>
@@ -66,9 +66,9 @@
 </form>
 
 <p class="mb-1">
-    <a href="{{ route('password.request') }}">I forgot my password</a>
+    <a href="{{ route('password.request') }}">Lupa Kata Sandi</a>
 </p>
 <p class="mb-0">
-    <a href="{{ route('register')}}" class="text-center">Register a new membership</a>
+    <a href="{{ route('register')}}" class="text-center">Registrasi Akun</a>
 </p>
 @endsection

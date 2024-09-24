@@ -16,15 +16,14 @@ return [
     //==========================================
     // Settings module messages
     //==========================================
-    'title' => 'Settings',
+    'title' => 'Pengaturan',
 
     //==========================================
     // General module messages
     //==========================================
-    'Update_Settings'   => 'Update Settings',
-    'App_name'          => 'App name',
-    'App_description'   => 'App description',
-    'Currency_symbol'   => 'Currency symbol',
+    'Update_Settings'   => 'Update Pengaturan',
+    'App_name'          => 'Nama Aplikasi',
+    'App_description'   => 'Deskripsi Aplikasi',
     'Warning_quantity'  => 'Warning quantity',
-    'Change_Setting'    => 'Change Setting'
+    'Change_Setting'    => 'Ganti Pengaturan'
 ];

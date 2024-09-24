@@ -16,7 +16,7 @@ return [
     //==========================================
     // Cart module messages
     //==========================================
-    'title' => 'Point Of Sale',
+    'title' => 'Belanja',
 
     //==========================================
     // Stock messages
@@ -29,15 +29,15 @@ return [
     //==========================================
     'scan_barcode'      => 'Scan Barcode...',
     'received_amount'   => 'Received Amount',
-    'confirm_pay'       => 'Receive',
-    'cancel_pay'        => 'Cancel',
-    'general_customer'  => 'General Customer',
-    'product_name'      => 'Product Name',
-    'quantity'          => 'Quantity',
-    'price'             => 'Price',
+    'confirm_pay'       => 'Bayar',
+    'cancel_pay'        => 'Batal',
+    'general_customer'  => 'Pelanggan Umum',
+    'product_name'      => 'Nama Podrak',
+    'quantity'          => 'Jumlah',
+    'price'             => 'Harga',
     'total'             => 'Total',
-    'cancel'            => 'Cancel',
-    'checkout'          => 'Checkout',
-    'search_product'    => 'Search Product',
+    'cancel'            => 'Batal',
+    'checkout'          => 'Belanja',
+    'search_product'    => 'Cari',
 
 ];

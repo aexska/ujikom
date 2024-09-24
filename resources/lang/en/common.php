@@ -16,12 +16,12 @@ return [
     //==========================================
     // General messages
     //==========================================
-    'Logout'        => 'Logout',
+    'Logout'        => 'Keluar',
     'success'       => 'success',
     'Create'        => 'Create',
     'Update'        => 'Update',
-    'Created_At'    => 'Created At',
-    'Actions'       => 'Actions',
+    'Created_At'    => 'Tanggal Pembelian',
+    'Actions'       => 'Edit',
     'Active'        => 'Active',
     'Inactive'      => 'Inactive',
     'More_info'     => 'More info',

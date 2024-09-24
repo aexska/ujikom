@@ -16,7 +16,7 @@ return [
     //==========================================
     // Customers module messages
     //==========================================
-    'title' => 'Customers',
+    'title' => 'Pembeli',
 
 
     //==========================================
@@ -31,21 +31,21 @@ return [
     // General module messages
     //==========================================
     'working'           => 'Working Customer',
-    'Create_Customer'   => 'Create Customer',
+    'Create_Customer'   => 'Buat Pembeli',
     'First_Name'        => 'First Name',
     'Last_Name'         => 'Last Name',
     'Email'             => 'Email',
-    'Phone'             => 'Phone',
-    'Address'           => 'Address',
+    'Phone'             => 'No.Hp',
+    'Address'           => 'Alamat',
     'Avatar'            => 'Avatar',
     'Choose_file'       => 'Choose file',
-    'Update_Customer'   => 'Update Customer',
-    'Customer_List'     => 'Customer List',
-    'Add_Customer'      => 'Add Customer',
+    'Update_Customer'   => 'Update Pembeli',
+    'Customer_List'     => 'Daftar Pembeli',
+    'Add_Customer'      => 'Tambah Pembeli',
     'ID'                => 'ID',
-    'sure'              => 'Are you sure?',
+    'sure'              => 'Apakah Anda Yakin?',
     'really_delete'     => 'Do you really want to delete this customer?',
-    'yes_delete'        => 'Yes, delete it!',
-    'No'                => 'No',
+    'yes_delete'        => 'Ya,Hapus!',
+    'No'                => 'Tidak',
     'Actions'           => 'Actions',
 ];

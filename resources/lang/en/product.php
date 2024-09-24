@@ -16,7 +16,7 @@ return [
     //==========================================
     // Product module messages
     //==========================================
-    'title' => 'Products',
+    'title' => 'Produk',
     'sure'  => 'Are you sure?',
 
     //==========================================
@@ -30,25 +30,25 @@ return [
     //==========================================
     // Product table messages
     //==========================================
-    'Create_Product'    => 'Create Product',
-    'Name'              => 'Name',
-    'Description'       => 'Description',
-    'Image'             => 'Image',
+    'Create_Product'    => 'Buat Produk',
+    'Name'              => 'Nama',
+    'Description'       => 'Deskripsi',
+    'Image'             => 'Foto',
     'Choose_file'       => 'Choose file',
     'Barcode'           => 'Barcode',
-    'Price'             => 'Price',
-    'Quantity'          => 'Quantity',
+    'Price'             => 'Harga',
+    'Quantity'          => 'Jumlah',
     'Status'            => 'Status',
-    'Edit_Product'      => 'Edit Product',
+    'Edit_Product'      => 'Edit ',
     'Update'            => 'Update',
-    'Product_List'      => 'Product List',
+    'Product_List'      => 'List Produk',
     'ID'                => 'ID',
-    'Created_At'        => 'Created At',
-    'Updated_At'        => 'Updated At',
-    'Actions'           => 'Actions',
-    'sure'              => 'Are you sure?',
-    'really_delete'     => 'Do you really want to delete this product?',
-    'yes_delete'        => 'Yes, delete it!',
-    'No'                => 'No',
+    'Created_At'        => 'Tanggal Pembelian',
+    'Updated_At'        => 'Tanggal Diubah',
+    'Actions'           => 'Edit',
+    'sure'              => 'Anda yakin?',
+    'really_delete'     => 'Apakah Anda benar-benar ingin menghapus produk ini?',
+    'yes_delete'        => 'Ya, Hapus!',
+    'No'                => 'Ulah',
 
 ];

@@ -16,23 +16,23 @@ return [
     //==========================================
     // Orders module messages
     //==========================================
-    'title'         => 'Orders',
+    'title'         => 'List Pembelian',
     'submit'        => 'Filter',
-    'Orders_List'   => 'Orders List',
+    'Orders_List'   => 'List Pembelian',
 
     //==========================================
     // Table module messages
     //==========================================
     'ID'                => 'ID',
-    'Customer_Name'     => 'Customer Name',
+    'Customer_Name'     => 'Nama Pembeli',
     'Total'             => 'Total',
     'Received_Amount'   => 'Received Amount',
     'Status'            => 'Status',
     'To_Pay'            => 'To Pay',
-    'Created_At'        => 'Created At',
+    'Created_At'        => 'Tanggal Pembelian',
     'Not_Paid'          => 'Not Paid',
     'Partial'           => 'Partial',
     'Paid'              => 'Paid',
-    'Change'            => 'Change',
+    'Change'            => 'Ganti',
 
 ];
