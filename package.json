@@ -4,6 +4,8 @@
         "dev": "vite",
         "build": "vite build"
     },
+
+    
     "devDependencies": {
         "@babel/preset-react": "^7.0.0",
         "@vitejs/plugin-react": "^2.1.0",

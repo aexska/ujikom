@@ -1,10 +1,11 @@
-<?php
+namespace Tests\Feature;
 
-namespace Tests;
+use Tests\TestCase;
 
-use Illuminate\Foundation\Testing\TestCase as BaseTestCase;
-
-abstract class TestCase extends BaseTestCase
+class ExampleTest extends TestCase
 {
-    use CreatesApplication;
+    public function test_example()
+    {
+        $this->assertTrue(true);
+    }
 }
