@@ -24,14 +24,12 @@ return [
     'Actions'       => 'Edit',
     'Active'        => 'Active',
     'Inactive'      => 'Inactive',
-    'More_info'     => 'More info',
+    'More_info'     => 'Selengkapnya',
 
     //==========================================
     // Footer messages
     //==========================================
-    'Version'       => 'Version',
     'Copyright'     => 'Copyright',
-    'all_reserved'  => 'All rights reserved.',
 
     //==========================================
     // Navigation bar messages

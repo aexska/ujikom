@@ -21,8 +21,8 @@ return [
     //==========================================
     // General module messages
     //==========================================
-    'Income'            => 'Income',
-    'Income_Today'      => 'Income Today',
+    'Income'            => 'Penghasilan',
+    'Income_Today'      => 'Penghasilan Hari ini',
     'Customers_Count'   => 'Akun Customers',
-    'Orders_Count'      => 'Orders Count',
+    'Orders_Count'      => 'Jumlah Pembelian',
 ];
